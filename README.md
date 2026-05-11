@@ -1,5 +1,6 @@
-# 💫 About Me:
-Iam a student!
+## 👨‍💻 About Me
+
+Aspiring Software Engineer passionate about Full-Stack Development, Data Structures & Algorithms, and Generative AI. Skilled in building scalable MERN stack applications and AI-powered systems using modern web technologies and APIs. Strong problem-solving abilities with hands-on experience in React.js, Node.js, MongoDB, MySQL, and C++. Always eager to learn new technologies and build real-world impactful projects.
 
 
 ## 🌐 Socials:
